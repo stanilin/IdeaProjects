@@ -4,11 +4,12 @@ import com.stanilin.javastart.objects.Door;
 
 
 public class House {
-    private Door door;
+    //private Door door;
 
 
     public void welcomeHouse(){
-        this.door = new Door();
+        Door door;
+        door = new Door();
         door.setColor("Golden");
         door.setLength(243.5f);
         door.setHeight(185.4f);
