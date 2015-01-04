@@ -9,7 +9,7 @@ public class House {
 
     public void welcomeHouse(){
         this.door = new Door();
-        door.setColor("Silver");
+        door.setColor("Golden");
         door.setLength(243.5f);
         door.setHeight(185.4f);
         door.setWidth(55.4f);
