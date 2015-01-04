@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e22cf76-7aec-482a-a289-501786126504" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/stanilin/javastart/objects/MyArray.java" afterPath="$PROJECT_DIR$/src/com/stanilin/javastart/objects/MyArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/stanilin/javastart/objects/MyMultidimensionalArray.java" afterPath="$PROJECT_DIR$/src/com/stanilin/javastart/objects/MyMultidimensionalArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arrays.iws" />
@@ -404,7 +401,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420385274474</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added .gitignore for this Project&#10;&quot;Masha&quot; changed to &quot;Misha&quot;">
+      <created>1420386440118</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1420386440118</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
