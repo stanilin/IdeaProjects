@@ -8,12 +8,12 @@ public class Main {
 
 
         String [][] stringArray = new String[3][2];
-        stringArray[0][0] = "Stanislav";
-        stringArray[0][1] = "Kutlin";
-        stringArray[1][0] = "Alina";
-        stringArray[1][1] = "Gladkova";
-        stringArray[2][0] = "Lion";
-        stringArray[2][1] = "Kutlin";
+        stringArray[0][0] = "Suhrab";
+        stringArray[0][1] = "Karimov";
+        stringArray[1][0] = "Anel";
+        stringArray[1][1] = "Gevorkyan";
+        stringArray[2][0] = "Lionel";
+        stringArray[2][1] = "Karimov";
 
 
 
