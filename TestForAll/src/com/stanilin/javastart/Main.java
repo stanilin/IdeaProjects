@@ -1,20 +1,19 @@
 package com.stanilin.javastart;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Main {
 
 
     public static void main(String[] args) {
 
-        ArrayList<String> arrayList = new ArrayList<String>();
-        arrayList.add("Karim");
-        arrayList.add("Baidar");
-        System.out.println(arrayList);
-        arrayList.add("Arsen");
-        System.out.println(arrayList);
-        arrayList.remove(2);
-        System.out.println(arrayList);
+       HashMap<String,String> map = new HashMap<String, String>();
+        map.put("Karim","Baidar");
+        System.out.println(map);
+        map.put("Arsen","Savelyev");
+        System.out.println(map);
+
 
         }
 
