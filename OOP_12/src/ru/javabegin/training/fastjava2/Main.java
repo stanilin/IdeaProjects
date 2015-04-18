@@ -13,10 +13,9 @@ public class Main {
 
 
         Door door = new Door();
-        door.setDoorOpen("Door is opened");
+        door.setDoorOpen("Дверь открыта");
 
 
-
-        System.out.println("State of Door: " + door.getDoorOpen());
+        System.out.println("door = " + door.getDoorOpen());
     }
 }
