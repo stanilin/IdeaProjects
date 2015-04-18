@@ -1,17 +1,16 @@
 package ru.javabegin.training.fastjava2.objects;
 
-/**
- * Created by Станислав on 25.12.2014.
- */
+
 public class Door {
-    private String color = "wood";
+    private String color = "wooden";
     private int height = 2;
 
-    private void open(){
+    public void open(){
+        System.out.println("The "+color+" door is opened");
 
     }
 
-    private void close(boolean keyClose){
+    public void close(boolean keyClose){
 
     }
 }
